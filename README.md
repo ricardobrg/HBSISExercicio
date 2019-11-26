@@ -1,2 +1,2 @@
 # HBSISExercicio
-Exercício turma HBSIS
+Exercício turma HBSIS.
